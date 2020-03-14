@@ -1,2 +1,2 @@
 # emailApp
-I have created my own Email Creating App using Java
+I have created my own Email Registration App using Java
